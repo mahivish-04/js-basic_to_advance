@@ -1,0 +1,63 @@
+/* body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.hero {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.product-categories {
+    padding: 50px 0;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);  Adjust for number of columns 
+    grid-gap: 20px;
+}
+
+.category {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+} */
+
+/* Add more CSS for styling specific elements like colors, fonts, etc. */
+
+/* .content {
+    color: brown;
+}
+
+.newclass{
+    background-color: green;
+}
+
+.box{
+    height: 150px;
+    width:150px;
+    background-color: bisque;
+    color: brown;
+} */
+
+
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
